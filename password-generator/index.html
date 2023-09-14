@@ -1,0 +1,50 @@
+<!Doctype HTML>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+
+<body>
+    <div class="main-block">
+        <div class="info-text">
+            <p>Generate a</p>
+            <p class="block-title">Random Password</p>
+            <p class="sub-block-title">Never Use an Insecure Password Again</p>
+            <div class="row-block">
+                <button onclick="newPass()"><span class="button-title"><img
+                            src="https://arcismd.github.io/scrimba/solo-project-pass-generator/images/Icon.png">Generate
+                        Passwords</span></button>
+                <div class="selectSection">
+                    <button type="button" class="active" id="eight-el">8</button>
+                    <button type="button" id="ten-el">10</button>
+                    <button type="button" id="twelve-el">12</button>
+                    <p class="pass-length">Change Password Length</p>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="rectangle">
+            <div class="rectangles"><span id="pass-el"><img
+                        src="https://arcismd.github.io/scrimba/solo-project-pass-generator/images/dots.png"></span>
+            </div>
+            <div class="rectangles"><span id="s-pass-el"><img
+                        src="https://arcismd.github.io/scrimba/solo-project-pass-generator/images/dots.png"></span>
+            </div>
+            <div class="rectangles"><span id="t-pass-el"><img
+                        src="https://arcismd.github.io/scrimba/solo-project-pass-generator/images/dots.png"></span>
+            </div>
+            <div class="rectangles"><span id="f-pass-el"><img
+                        src="https://arcismd.github.io/scrimba/solo-project-pass-generator/images/dots.png"></span>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="scripts.js"></script>
+</body>
+
+</html>
