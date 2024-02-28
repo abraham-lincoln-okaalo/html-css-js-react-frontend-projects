@@ -99,35 +99,45 @@ Welcome to the HTML-CSS-JS-React Frontend Projects repository! This repository c
 
 **Description:** Count the number of passengers boarding and alighting a bus.
 
-### 20. Quiz App
-**Demo:** [https://quiz-app-lincoln.netlify.app](https://quiz-app-lincoln.netlify.app)
+### 20. Personality In Emojis
+Explore your personality through emojis! This project allows you to input text and generates a set of emojis that represent your personality traits. It uses JavaScript and CSS to generate the emojis dynamically based on the input text.
 
-**Description:** Test your knowledge with a quiz application.
+**Tech Stack:** JavaScript, CSS
 
-### 21. Recipe Finder
-**Demo:** [https://recipe-finder-lincoln.netlify.app](https://recipe-finder-lincoln.netlify.app)
+**Demo:** [Visit Personality In Emojis](https://personality-in-emojis-lincoln.netlify.app)
 
-**Description:** Find and explore a variety of recipes.
+### 21. Portfolio
+A personal portfolio website showcasing various projects and skills. Visit the [demo](https://portfolio-lincoln.netlify.app).
 
-### 22. Rock Paper Scissors
-**Demo:** [https://rock-paper-scissors-lincoln.netlify.app](https://rock-paper-scissors-lincoln.netlify.app)
+### 22. React Airbnb Project
+A project that replicates the Airbnb website using React. Visit the [demo](https://html-css-js-react-frontend-projects-neyu.vercel.app/).
 
-**Description:** Play the classic Rock, Paper, Scissors game against the computer.
+### 23. React Capstone
+A capstone project built with React, demonstrating advanced frontend development concepts. Visit the [demo](https://html-css-js-react-frontend-projects.vercel.app/).
 
-### 23. Social Media Dashboard
-**Demo:** [https://social-media-dashboard-lincoln.netlify.app](https://social-media-dashboard-lincoln.netlify.app)
+### 24. React Tenzies Game
+A game developed using React, where players roll dice and try to get the highest score. Visit the [demo](https://html-css-js-react-frontend-projects-w14o.vercel.app/).
 
-**Description:** Create a social media dashboard with HTML, CSS, and JavaScript.
+### 25. Role Playing Game (JS)
+A text-based role-playing game implemented in JavaScript. Visit the [demo](https://role-playing-game-js.netlify.app).
 
-### 24. Todo App
-**Demo:** [https://todo-app-lincoln.netlify.app](https://todo-app-lincoln.netlify.app)
+### 26. Snake Xenzia
+A classic snake game built with HTML, CSS, and JavaScript. Visit the [demo](https://snake-xenzia-lincoln.netlify.app/).
 
-**Description:** Manage your tasks with a simple and intuitive todo application.
+### 27. Space Exploration
+A website showcasing space exploration missions and information. Visit the [demo](https://space-exploration-lincoln.netlify.app).
 
-### 25. Weather App
-**Demo:** [https://weather-app-lincoln.netlify.app](https://weather-app-lincoln.netlify.app)
+### 28. Space Mission 2
+A project dedicated to a simulated space mission. Join the mission at [demo](https://space-mission-2.netlify.app).
 
-**Description:** Get the current weather conditions and forecast for any location.
+### 29. Space Mission
+A project focused on setting up a base on the moon. Join the mission at [demo](https://space-mission-lincoln.netlify.app/).
+
+### 30. Unit Converter
+A simple unit converter tool built with HTML, CSS, and JavaScript. Visit the [demo](https://unit-converter-lincoln.netlify.app/).
+
+### 31. War Game
+A card-based war game implemented with HTML, CSS, and JavaScript. Visit the [demo](https://war-game-lincoln.netlify.app/).
 
 
 Please refer to the respective project's demo link to explore and interact with each project. The projects cover a wide range of topics and showcase different frontend development techniques.
